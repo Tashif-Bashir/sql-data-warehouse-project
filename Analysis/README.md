@@ -9,4 +9,3 @@ This dashboard visualizes insights generated from the cleaned and transformed sa
 
 🔗 **[Click here to view the live Tableau Dashboard](https://public.tableau.com/app/profile/tashif.bashir/viz/global_sales_performance/SalesAnalytics)**
 
-![Dashboard Preview](dashboards/global_sales_dashboard.png)
