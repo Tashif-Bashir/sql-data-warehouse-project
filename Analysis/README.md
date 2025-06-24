@@ -7,3 +7,6 @@ This dashboard visualizes insights generated from the cleaned and transformed sa
 - 🌍 Geographic segmentation
 - 🔄 Year-over-Year product performance
 
+🔗 **[Click here to view the live Tableau Dashboard](https://public.tableau.com/app/profile/tashif.bashir/viz/global_sales_performance/SalesAnalytics)**
+
+![Dashboard Preview](dashboards/global_sales_dashboard.png)
